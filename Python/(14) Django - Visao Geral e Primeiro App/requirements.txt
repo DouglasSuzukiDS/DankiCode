@@ -1,3 +1,8 @@
+# Dependências para o script de automação do Telegram
+pyautogui==0.9.54
+pillow==10.0.0
+
+# Dependências do projeto Django
 asgiref==3.9.0
 Django==5.2.4
 sqlparse==0.5.3
